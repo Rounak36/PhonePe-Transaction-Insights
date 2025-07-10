@@ -90,6 +90,8 @@ Streamlit dashboard development for real-time data presentation.
 
 Clear documentation and structured deployment-ready repository.
 
-Author
-Rounak Saha
-July 2025
+
+
+**Author
+**Rounak Saha
+**July 2025
